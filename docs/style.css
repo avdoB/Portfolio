@@ -121,8 +121,8 @@ a.note{
     color: rgb(88, 88, 88);
     text-align: center;
  }
-#ft{
-  font-size:14px;
+.footer p{
+  font-size:12px;
 }
  
 @media(max-width: 700px) {
