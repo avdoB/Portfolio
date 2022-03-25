@@ -6,7 +6,7 @@
   }
   
   body{
-font-family: 'Outfit', sans-serif;
+    font-family: 'Outfit', sans-serif;
     background: rgb(255, 255, 255);
     color: rgb(88, 88, 88);
   
@@ -22,7 +22,7 @@ font-family: 'Outfit', sans-serif;
   }
   p{
     padding: 2%;
-    font-size: 20px;
+    font-size: 18px;
   }
  
 img{
